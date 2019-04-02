@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 /**
- * Convenience extension methods to make the crappy Calendar API less crappy
+ * Convenience extension methods for the Calendar API
  *
  * @author Gaston Muijtjens
  * @since 26-03-18
